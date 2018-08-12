@@ -2,8 +2,8 @@
 __author__ = "Evyatar Orbach"
 __email__ = "evyataro@gmail.com"
 '''Exercise 14
-Write a program (using functions!) that asks the user for a long string containing multiple words. 
-Print back to the user the same string, except with the words in backwards order. 
+Write a program (using functions!) that asks the user for a long string containing multiple words.
+Print back to the user the same string, except with the words in backwards order.
 For example, say I type the string:
 
   My name is Michele
